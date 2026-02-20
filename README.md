@@ -2,3 +2,4 @@
 ### Backend: Typescript
 ### Web-Frontend: React.js + Typescript
 ### App-Frontend: Flutter
+### Database: SQL
